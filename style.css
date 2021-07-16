@@ -1948,6 +1948,7 @@ h3.service-title-dark a:hover {
 }
 .service-layout2 {
   margin-bottom: 30px;
+  border: 1px solid;
 }
 .service-layout2 .item-img {
   overflow: hidden;
