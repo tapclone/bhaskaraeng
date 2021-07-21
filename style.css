@@ -1696,7 +1696,8 @@ nav#main-nav.active {
 }
 .slider-area .slide-1 .top-title3,
 .slider-area .slide-2 .top-title3,
-.slider-area .slide-3 .top-title3 {
+.slider-area .slide-3 .top-title3,
+.slider-area .slide-4 .top-title3 {
   letter-spacing: 5px;
   font-family: 'Rubik', sans-serif;
   font-size: 30px;
@@ -1707,7 +1708,8 @@ nav#main-nav.active {
 }
 .slider-area .slide-1 .top-title2,
 .slider-area .slide-2 .top-title2,
-.slider-area .slide-3 .top-title2 {
+.slider-area .slide-3 .top-title2,
+.slider-area .slide-4 .top-title2 {
   font-family: 'Rubik', sans-serif;
   font-size: 24px;
   letter-spacing: 20px;
@@ -1727,7 +1729,8 @@ nav#main-nav.active {
 }
 .slider-area .slide-1 p.slider-big-text,
 .slider-area .slide-2 p.slider-big-text,
-.slider-area .slide-3 p.slider-big-text {
+.slider-area .slide-3 p.slider-big-text,
+.slider-area .slide-4 p.slider-big-text {
   font-family: 'Roboto', sans-serif;
   line-height: 1.2;
   font-size: 56px;
@@ -1738,104 +1741,122 @@ nav#main-nav.active {
 @media only screen and (max-width: 1199px) {
   .slider-area .slide-1 p.slider-big-text,
   .slider-area .slide-2 p.slider-big-text,
-  .slider-area .slide-3 p.slider-big-text {
+  .slider-area .slide-3 p.slider-big-text,
+  .slider-area .slide-4 p.slider-big-text {
     font-size: 42px;
   }
 }
 @media only screen and (max-width: 991px) {
   .slider-area .slide-1 p.slider-big-text,
   .slider-area .slide-2 p.slider-big-text,
-  .slider-area .slide-3 p.slider-big-text {
+  .slider-area .slide-3 p.slider-big-text,
+  .slider-area .slide-4 p.slider-big-text {
     font-size: 36px;
   }
 }
 @media only screen and (max-width: 767px) {
   .slider-area .slide-1 p.slider-big-text,
   .slider-area .slide-2 p.slider-big-text,
-  .slider-area .slide-3 p.slider-big-text {
+  .slider-area .slide-3 p.slider-big-text,
+  .slider-area .slide-4 p.slider-big-text {
     font-size: 32px;
   }
 }
 @media only screen and (max-width: 575px) {
   .slider-area .slide-1 p.slider-big-text,
   .slider-area .slide-2 p.slider-big-text,
-  .slider-area .slide-3 p.slider-big-text {
+  .slider-area .slide-3 p.slider-big-text,
+  .slider-area .slide-4 p.slider-big-text {
     font-size: 28px;
   }
 }
 .slider-area .slide-1 p.slider-big-text span,
 .slider-area .slide-2 p.slider-big-text span,
-.slider-area .slide-3 p.slider-big-text span {
+.slider-area .slide-3 p.slider-big-text span,
+.slider-area .slide-4 p.slider-big-text span
+ {
   color: #ffbe00;
 }
 .slider-area .slide-1 p.slider-sub-text,
 .slider-area .slide-2 p.slider-sub-text,
-.slider-area .slide-3 p.slider-sub-text {
+.slider-area .slide-3 p.slider-sub-text,
+.slider-area .slide-4 p.slider-sub-text {
   margin-bottom: 50px;
   line-height: 1.7;
   font-weight: 400;
 }
 .slider-area .slide-1 .title-light p.slider-big-text,
 .slider-area .slide-2 .title-light p.slider-big-text,
-.slider-area .slide-3 .title-light p.slider-big-text {
+.slider-area .slide-3 .title-light p.slider-big-text,
+.slider-area .slide-4 .title-light p.slider-big-text {
   color: #ffffff !important;
 }
 .slider-area .slide-1 .title-light p.slider-sub-text,
 .slider-area .slide-2 .title-light p.slider-sub-text,
-.slider-area .slide-3 .title-light p.slider-sub-text {
+.slider-area .slide-3 .title-light p.slider-sub-text,
+.slider-area .slide-4 .title-light p.slider-sub-text {
   color: #ffffff;
 }
 .slider-area .slide-1 .title-dark p.slider-big-text,
 .slider-area .slide-2 .title-dark p.slider-big-text,
-.slider-area .slide-3 .title-dark p.slider-big-text {
+.slider-area .slide-3 .title-dark p.slider-big-text,
+.slider-area .slide-4 .title-dark p.slider-big-text {
   color: #111111 !important;
 }
 .slider-area .slide-1 .title-dark p.slider-sub-text,
 .slider-area .slide-2 .title-dark p.slider-sub-text,
-.slider-area .slide-3 .title-dark p.slider-sub-text {
+.slider-area .slide-3 .title-dark p.slider-sub-text,
+.slider-area .slide-4 .title-dark p.slider-big-text {
   color: #111111;
 }
 .slider-area .slide-1 .para-padding-right,
 .slider-area .slide-2 .para-padding-right,
-.slider-area .slide-3 .para-padding-right {
+.slider-area .slide-3 .para-padding-right,
+.slider-area .slide-4 .para-padding-right {
   padding-right: 50%;
 }
 .slider-area .slide-1 .para-padding-left,
 .slider-area .slide-2 .para-padding-left,
-.slider-area .slide-3 .para-padding-left {
+.slider-area .slide-3 .para-padding-left,
+.slider-area .slide-4 .para-padding-left {
   padding-left: 50%;
 }
 .slider-area .slide-1 .para-width-compress p.slider-sub-text,
 .slider-area .slide-2 .para-width-compress p.slider-sub-text,
-.slider-area .slide-3 .para-width-compress p.slider-sub-text {
+.slider-area .slide-3 .para-width-compress p.slider-sub-text,
+.slider-area .slide-4 .para-width-compress p.slider-sub-text {
   width: 54%;
   margin: 0 auto 40px;
 }
 @media only screen and (max-width: 1199px) {
   .slider-area .slide-1 .para-width-compress p.slider-sub-text,
   .slider-area .slide-2 .para-width-compress p.slider-sub-text,
-  .slider-area .slide-3 .para-width-compress p.slider-sub-text {
+  .slider-area .slide-3 .para-width-compress p.slider-sub-text,
+   .slider-area .slide-4 .para-width-compress p.slider-sub-text {
     width: 70%;
   }
 }
 @media only screen and (max-width: 991px) {
   .slider-area .slide-1 .para-width-compress p.slider-sub-text,
   .slider-area .slide-2 .para-width-compress p.slider-sub-text,
-  .slider-area .slide-3 .para-width-compress p.slider-sub-text {
+  .slider-area .slide-3 .para-width-compress p.slider-sub-text,
+  .slider-area .slide-4 .para-width-compress p.slider-sub-text {
     width: 90%;
   }
 }
 @media only screen and (max-width: 767px) {
   .slider-area .slide-1 .para-width-compress p.slider-sub-text,
   .slider-area .slide-2 .para-width-compress p.slider-sub-text,
-  .slider-area .slide-3 .para-width-compress p.slider-sub-text {
+  .slider-area .slide-3 .para-width-compress p.slider-sub-text,
+  .slider-area .slide-4 .para-width-compress p.slider-sub-text {
     width: 95%;
   }
 }
 @media only screen and (max-width: 575px) {
   .slider-area .slide-1 .para-width-compress p.slider-sub-text,
   .slider-area .slide-2 .para-width-compress p.slider-sub-text,
-  .slider-area .slide-3 .para-width-compress p.slider-sub-text {
+  .slider-area .slide-3 .para-width-compress p.slider-sub-text,
+  .slider-area .slide-4 .para-width-compress p.slider-sub-text {
     display: none;
   }
 }
@@ -1914,6 +1935,87 @@ nav#main-nav.active {
   -ms-animation: fadeInLeft 2000ms ease-in-out;
   animation: fadeInLeft 2000ms ease-in-out;
 }
+
+
+
+
+.slider-area .slide-3 .top-title {
+  -webkit-animation: bounceInUp 1000ms ease-in-out;
+  -moz-animation: bounceInUp 1000ms ease-in-out;
+  -ms-animation: bounceInUp 1000ms ease-in-out;
+  animation: bounceInUp 1000ms ease-in-out;
+}
+.slider-area .slide-3 .top-title3 {
+  -webkit-animation: zoomIn 1500ms ease-in-out;
+  -moz-animation: zoomIn 1500ms ease-in-out;
+  -ms-animation: zoomIn 1500ms ease-in-out;
+  animation: zoomIn 1500ms ease-in-out;
+}
+.slider-area .slide-3 .top-title3 {
+  -webkit-animation: fadeInRight 1500ms ease-in-out;
+  -moz-animation: fadeInRight 1500ms ease-in-out;
+  -ms-animation: fadeInRight 1500ms ease-in-out;
+  animation: fadeInRight 1500ms ease-in-out;
+}
+.slider-area .slide-3 p.slider-big-text {
+  -webkit-animation: fadeInLeft 1000ms ease-in-out;
+  -moz-animation: fadeInLeft 1000ms ease-in-out;
+  -ms-animation: fadeInLeft 1000ms ease-in-out;
+  animation: fadeInLeft 1000ms ease-in-out;
+}
+.slider-area .slide-3 p.slider-sub-text {
+  -webkit-animation: fadeInLeft 1500ms ease-in-out;
+  -moz-animation: fadeInLeft 1500ms ease-in-out;
+  -ms-animation: fadeInLeft 1500ms ease-in-out;
+  animation: fadeInLeft 1500ms ease-in-out;
+}
+.slider-area .slide-3 .slider-btn-area {
+  -webkit-animation: fadeInLeft 2000ms ease-in-out;
+  -moz-animation: fadeInLeft 2000ms ease-in-out;
+  -ms-animation: fadeInLeft 2000ms ease-in-out;
+  animation: fadeInLeft 2000ms ease-in-out;
+}
+
+
+.slider-area .slide-4 .top-title {
+  -webkit-animation: bounceInUp 1000ms ease-in-out;
+  -moz-animation: bounceInUp 1000ms ease-in-out;
+  -ms-animation: bounceInUp 1000ms ease-in-out;
+  animation: bounceInUp 1000ms ease-in-out;
+}
+.slider-area .slide-4 .top-title4 {
+  -webkit-animation: zoomIn 1500ms ease-in-out;
+  -moz-animation: zoomIn 1500ms ease-in-out;
+  -ms-animation: zoomIn 1500ms ease-in-out;
+  animation: zoomIn 1500ms ease-in-out;
+}
+.slider-area .slide-4 .top-title4 {
+  -webkit-animation: fadeInRight 1500ms ease-in-out;
+  -moz-animation: fadeInRight 1500ms ease-in-out;
+  -ms-animation: fadeInRight 1500ms ease-in-out;
+  animation: fadeInRight 1500ms ease-in-out;
+}
+.slider-area .slide-4 p.slider-big-text {
+  -webkit-animation: fadeInLeft 1000ms ease-in-out;
+  -moz-animation: fadeInLeft 1000ms ease-in-out;
+  -ms-animation: fadeInLeft 1000ms ease-in-out;
+  animation: fadeInLeft 1000ms ease-in-out;
+}
+.slider-area .slide-4 p.slider-sub-text {
+  -webkit-animation: fadeInLeft 1500ms ease-in-out;
+  -moz-animation: fadeInLeft 1500ms ease-in-out;
+  -ms-animation: fadeInLeft 1500ms ease-in-out;
+  animation: fadeInLeft 1500ms ease-in-out;
+}
+.slider-area .slide-4 .slider-btn-area {
+  -webkit-animation: fadeInLeft 2000ms ease-in-out;
+  -moz-animation: fadeInLeft 2000ms ease-in-out;
+  -ms-animation: fadeInLeft 2000ms ease-in-out;
+  animation: fadeInLeft 2000ms ease-in-out;
+}
+
+
+
 /*=======================================================================
 [04] Service Area
 =========================================================================*/
