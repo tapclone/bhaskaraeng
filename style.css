@@ -4442,3 +4442,10 @@ h3.blog-title a:hover {
   background-color: #ffbe00;
   color: #ffffff;
 }
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    -webkit-transform-style: preserve-3d;
+    height: 59px;
+}
